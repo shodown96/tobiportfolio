@@ -175,6 +175,18 @@
                 "url": "https://app.powerbi.com/view?r=eyJrIjoiM2Y5NzVlZmYtYTkyNC00ZWJlLWI2M2YtZDA0MTcxMmQ3YWM1IiwidCI6IjQxZDdjZDQ4LWQ2MzQtNDIyZi1hNmNjLWVlNTUxNDFhOTJkNSJ9"
             },
             {
+                "title": "M & E Dashboard",
+                "category": "Visualizing the monitoring and evaluation dataset of AgroMall, details like Pending Visits, Number of States visited e.t.c",
+                "image": "m & e.png",
+                "url": "https://app.powerbi.com/view?r=eyJrIjoiOGYwZDU0MzYtNGYwOC00YTEzLTk1MjMtNDY3MmMwMGRjZGZlIiwidCI6IjQxZDdjZDQ4LWQ2MzQtNDIyZi1hNmNjLWVlNTUxNDFhOTJkNSJ9"
+            },
+            {
+                "title": "Logistics Dashboard",
+                "category": "Analyzing and visualizing the logistics transport data of AgroMall, details like different truck vendors, products available for movement and status of truck vendor.",
+                "image": "logistics.png",
+                "url": "https://app.powerbi.com/view?r=eyJrIjoiNTM3NjI5NzgtYTQyZS00YTk3LTg1MzEtYzQyODgyYTRlM2Q5IiwidCI6IjQxZDdjZDQ4LWQ2MzQtNDIyZi1hNmNjLWVlNTUxNDFhOTJkNSJ9"
+            },
+            {
                 "title": "Olympics Dashboard",
                 "category": "Analyzing and visualizing the olympics dataset gotten from Quantum Analytics to derive insights, identify patterns and trends in data using PowerBI, Excel and SQL",
                 "image": "olympics analysis-.png",
