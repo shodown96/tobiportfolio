@@ -159,80 +159,14 @@
             {
                 "title": "Seismo Watch",
                 "category": "Real-time seismic event monitoring solution in Colombian oil-producing zones, ensuring operational safety and community well-being. Employed ArcGIS for precise geospatial analysis and PowerBI for insightful data visualization, facilitating data-driven decision-making.",
-                "image": "pluv.png",
+                "image": "seismic.png",
                 "url": "https://app.powerbi.com/view?r=eyJrIjoiNzliMDZjMDUtNzM4Yy00MTI5LTg4YzgtYWEyMjQyMjhjNzk4IiwidCI6IjQxZDdjZDQ4LWQ2MzQtNDIyZi1hNmNjLWVlNTUxNDFhOTJkNSJ9"
-            },
-            {
-                "title": "Voting App",
-                "category": "Voting Website built with Django featuring Chart.js",
-                "image": "lmuvote.png",
-                "url": "https://lmuvote.herokuapp.com"
-            },
-            {
-                "title": "Django REST framework App",
-                "category": "A simple site providing RESTful APIs for Basic Authentication",
-                "image": "api.png",
-                "url": "https://lmu-dj-api.herokuapp.com/"
-            },
-            {
-                "title": "MarioPlan",
-                "category": "My first deployed app built with ReactJS featuring Redux, Firebase and Firestore",
-                "image": "marioplan.png",
-                "url": "https://firstreact-a1409.web.app/"
-            },
-            {
-                "title": "Spotify Clone",
-                "category": "Spotify clone built with ReactJS using spotify's API. You can't play song's due to my account not being premium",
-                "image": "spotify.png",
-                "url": "https://spotify-clone-phi.vercel.app/"
-            },
-            {
-                "title": "Discord Clone",
-                "category": "Discord clone built with the MERN stack",
-                "image": "discord.png",
-                "url": "https://discord-clone-b6582.web.app/"
-            },
-            {
-                "title": "Amazon Clone",
-                "category": "Amazon Clone built with ReactJS featuring Functional components, Hooks, Context API, Firebase and Firestore",
-                "image": "amazon.png",
-                "url": "https://clone-3f488.web.app/"
-            },
-            {
-                "title": "Covid-19 Tracker",
-                "category": "A single page app showing records of covid-19 cases around the world featuring ReactJS",
-                "image": "covid-19.png",
-                "url": "https://covid-19-tracker-b3746.web.app/"
-            },
-            {
-                "title": "Django | React Blog",
-                "category": "A simple django-react blog app featuring authentication and CRUD operations using DRF, axios and redux",
-                "image": "djr-blog.png",
-                "url": "https://djr-blog.herokuapp.com"
-            },
-            {
-                "title": "Django | React Ecommerce",
-                "category": "A django-react Ecommerce app featuring authentication, Cart functionality and Payment systems.",
-                "image": "djr-ecommerce.png",
-                "url": "https://djr-ecommerce.herokuapp.com"
-            },
-            {
-                "title": "VoteChain | Voting Dapp",
-                "category": "A Voting Dapp built with solidarity and NextJS, an app that runs on ethereum blockchain technology.",
-                "image": "votechain.png",
-                "url": "https://voting-dapp.vercel.app/login"
             },
             {
                 "title": "Olympics Dashboard",
                 "category": "Analyzing and visualizing the olympics dataset gotten from Quantum Analytics to derive insights, identify patterns and trends in data using PowerBI, Excel and SQL",
                 "image": "olympics.png",
                 "url": "https://app.powerbi.com/view?r=eyJrIjoiM2M5MzEzM2YtZjIzZi00NTJmLTlkYTMtNWUyNDc1MzkzYjk3IiwidCI6IjQxZDdjZDQ4LWQ2MzQtNDIyZi1hNmNjLWVlNTUxNDFhOTJkNSJ9"
-            },
-            {
-                "title": "OrderIt",
-                "category": "A Food Menu and Ordering system targetted for restaurants whereby orders and menus can be managed effectively. Made with Django and React",
-                "image": "orderit.png",
-                "url": "http://orderit-lmu.vercel.app/"
             }
         ]
     },
