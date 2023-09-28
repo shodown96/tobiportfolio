@@ -11,9 +11,10 @@ import Testimonials from './Components/Testimonials';
 import Portfolio from './Components/Portfolio';
 
 // Import Swiper styles
-import "swiper/swiper.min.css";
-import "swiper/components/effect-coverflow/effect-coverflow.min.css"
-import "swiper/components/pagination/pagination.min.css"
+import 'swiper/css';
+import 'swiper/css/navigation';
+import 'swiper/css/pagination';
+import 'swiper/css/scrollbar';
 
 class App extends Component {
 
