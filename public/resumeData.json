@@ -51,17 +51,18 @@
         ],
         "work": [
             {
-                "company": "PwC",
-                "title": "Data Analyst",
-                "years": "September 2022 - Present",
-                "description": "In my role as a Data Analyst at PwC, I'm actively involved in a data migration project for a prominent player in the Nigerian food and agroallied sector. My responsibilities include conducting comprehensive data mapping, collaborating with stakeholders to develop custom scripts, and utilizing SSIS for real-time data monitoring. I also provide training and play a pivotal role in assignment management."
-            },
-            {
-                "company": "NetSys Consult Ltd",
+                "company": "Data Fellows",
                 "title": "Founder and Data Community Lead",
                 "years": "Aug 2022 - Present",
                 "description": "As the founder and community lead of Data Fellows, a community dedicated to data professionals, I facilitate knowledge sharing, resource exchange, and networking among over 300 members. Data Fellows is aligned with Netsys Consult's consulting services, furthering our mission to empower individuals in the data field."
             },
+            {
+                "company": "PwC",
+                "title": "Data Analyst",
+                "years": "September 2022 - November 2023",
+                "description": "In my role as a Data Analyst at PwC, I'm actively involved in a data migration project for a prominent player in the Nigerian food and agroallied sector. My responsibilities include conducting comprehensive data mapping, collaborating with stakeholders to develop custom scripts, and utilizing SSIS for real-time data monitoring. I also provide training and play a pivotal role in assignment management."
+            },
+        
             {
                 "company": "Rollback Ally",
                 "title": "Lead Data Analyst",
