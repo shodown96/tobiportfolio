@@ -47,6 +47,12 @@
                 "degree": "BSc in Computer Science",
                 "graduated": "2022",
                 "description": ""
+            },
+ {
+                "school": "Conestoga College",
+                "degree": "PGd in Business Analytics",
+                "graduated": "2024",
+                "description": ""
             }
         ],
         "work": [
