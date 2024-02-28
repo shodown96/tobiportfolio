@@ -204,6 +204,11 @@
     "testimonials": {
         "testimonials": [
             {
+               "text": "Tobi is an outstanding young professional with so much potential. During our time at PwC, I witnessed his dedication to mastering data analysis. Tobi's ability to tackle complex data challenges and his eagerness to learn set him apart. He's not just a team player but also brings a fresh perspective to every project. I highly recommend Tobi for his skills, passion, and the promise he holds in the field of data analytics",
+                "user": "Andrew S Nevin"
+            }
+
+            {
                 "text": "It was a great pleasure to have worked with Tobi. He is a very responsible, determined, and hard working profesional. Tobi really helped us in analyzing data and report generation for various clients,developing them in PowerBi and integrating databases. Constantly solved problems and proposed new ideas. Tobi was always a team player and was invested in making things work. Apart from being a great profesional he is a great person.",
                 "user": "Edgardo Jaramillo"
             },
