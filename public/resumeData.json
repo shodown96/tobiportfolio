@@ -164,12 +164,6 @@
     "portfolio": {
         "projects": [
             {
-                "title": "Library Management System",
-                "category": "The aim of this project is to build a Library Management System database using SQL. I want to improve my grasp of database design, SQL commands, and data handling methods. By setting up tables, inserting data, defining connections, and using SQL functions.",
-                "image": "library.png",
-                "url": "https://medium.com/@Tobioladimeji_/testing-sql-skills-a-deep-dive-into-lms-databases-98d7dd808604"
-            },
-            {
                 "title": "Seismo Watch",
                 "category": "Real-time seismic event monitoring solution in Colombian oil-producing zones, ensuring operational safety and community well-being. Employed ArcGIS for precise geospatial analysis and PowerBI for insightful data visualization, facilitating data-driven decision-making.",
                 "image": "seismic.png",
