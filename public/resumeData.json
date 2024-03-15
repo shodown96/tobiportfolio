@@ -56,11 +56,11 @@
             }
         ],
         "work": [
-            {
-                "company": "Data Fellows",
-                "title": "Founder and Data Community Lead",
-                "years": "Aug 2022 - Present",
-                "description": "As the founder and community lead of Data Fellows, a community dedicated to data professionals, I facilitate knowledge sharing, resource exchange, and networking among over 300 members. Data Fellows is aligned with Netsys Consult's consulting services, furthering our mission to empower individuals in the data field."
+             {
+                "company": "LRS Wellness",
+                "title": "Data Analyst",
+                "years": "February 2024 - Present",
+                "description": "In my role as a Data Analyst at LRS Wellness. Collaborating closely with the CEO, I spearhead market research efforts and conduct in-depth data analysis to shape strategies for our global wellness events. With a keen eye for trends and a dedication to excellence, I work collaboratively with cross-functional teams to ensure the event's success and deliver an exceptional experience for attendees. We are on our journey to redefine wellness on a global scale."
             },
             {
                 "company": "PwC",
@@ -82,6 +82,12 @@
                 "description": "I developed social media strategies, participated in various roles, contributed to growth initiatives, conducted market research, and contributed to lead generation strategies."
             },
             {
+                "company": "Data Fellows",
+                "title": "Founder and Data Community Lead",
+                "years": "Aug 2022 - Present",
+                "description": "As the founder and community lead of Data Fellows, a community dedicated to data professionals, I facilitate knowledge sharing, resource exchange, and networking among over 300 members. Data Fellows is aligned with Netsys Consult's consulting services, furthering our mission to empower individuals in the data field."
+            },
+            {
                 "company": "Analytic Company GmbH",
                 "title": "Data Analyst",
                 "years": "May 2022 - Nov 2022",
@@ -89,33 +95,21 @@
             },
             {
                 "company": "Entrylevel",
-                "title": "Data Analyst",
+                "title": "Data Analyst Intern",
                 "years": "March 2021 - Nov 2021",
                 "description": "I excelled in the Data Analyst Virtual Experience program, showcasing proficiency in SQL, data analytics tools, data visualization, and problem-solving."
             },
             {
-                "company": "10Alytics",
-                "title": "Data Analyst",
-                "years": "Oct 2021",
-                "description": "I participated in the Global Data Hackathon, achieving high accuracy in data analysis and insights. My performance earned the Best award certificate."
-            },
-            {
                 "company": "Quantum Analytics",
-                "title": "Data Analyst",
+                "title": "Data Analyst Intern",
                 "years": "Sep 2021 - Oct 2021",
                 "description": "I worked with Excel, PowerBI, and data cleaning tools to enhance data analysis capabilities and generate data-driven insights."
             },
             {
                 "company": "AgroMall",
-                "title": "Business Intelligence Analyst",
+                "title": "Data Analyst Intern",
                 "years": "Mar 2021 - Oct 2021",
                 "description": "I designed dashboards, managed databases, and conducted data analysis to inform decision-making."
-            },
-            {
-                "company": "Adsolutions",
-                "title": "Digital Marketing Manger",
-                "years": "Nov 2019 - Mar 2021",
-                "description": "I executed successful digital marketing campaigns, maintained a strong social media presence, enhanced lead generation, and measured campaign performance."
             }
         ],
         "skills": [
@@ -124,7 +118,7 @@
                 "level": "70%"
             },
             {
-                "name": "MySQL",
+                "name": "SQL",
                 "level": "85%"
             },
             {
