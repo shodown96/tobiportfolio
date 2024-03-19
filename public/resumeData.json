@@ -57,16 +57,23 @@
         ],
         "work": [
              {
-                "company": "LRS Wellness",
-                "title": "Data Analyst",
+                "company": "ESGTree",
+                "title": "Data Analyst & ML Engineer",
                 "years": "February 2024 - Present",
-                "description": "In my role as a Data Analyst at LRS Wellness. Collaborating closely with the CEO, I spearhead market research efforts and conduct in-depth data analysis to shape strategies for our global wellness events. With a keen eye for trends and a dedication to excellence, I work collaboratively with cross-functional teams to ensure the event's success and deliver an exceptional experience for attendees. We are on our journey to redefine wellness on a global scale."
+                "description": "In my role as a Data Analyst & ML Engineer at ESGTree. I provide expert support for client requests, utilizing my proficiency in PowerBI and fostering collaboration with data engineers to ensure efficient and effective solutions. Additionally, I contribute valuable insights to architecture modernization and refactoring efforts, aiming to enhance system efficiency and scalability. Moreover, I actively participate in Machine Learning projects focused on document processing, leveraging Large Language Models (LLM) to drive innovation and achieve project objectives."
+
+
+
+
+
+
+
             },
             {
                 "company": "PwC",
                 "title": "Data Analyst",
                 "years": "September 2022 - November 2023",
-                "description": "In my role as a Data Analyst at PwC, I'm actively involved in a data migration project for a prominent player in the Nigerian food and agroallied sector. My responsibilities include conducting comprehensive data mapping, collaborating with stakeholders to develop custom scripts, and utilizing SSIS for real-time data monitoring. I also provide training and play a pivotal role in assignment management."
+                "description": "In my role as Data Analyst at PwC, I was actively involved in a data migration project for a prominent player in the Nigerian food and agroallied sector. My responsibilities include conducting comprehensive data mapping, collaborating with stakeholders to develop custom scripts, and utilizing SSIS for real-time data monitoring. I also provided training and played a pivotal role in assignment management."
             },
         
             {
