@@ -162,7 +162,7 @@
             },
             {
                 "title": "Corona Dashboard",
-                "category": "SQL",
+                "category": "PowerBI",
                 "description": "Visualization of Corona Virus Pandemic as at 26 July 2021, details like number of countries affected, confirmed cases and deaths.",
                 "image": "corona.png",
                 "url": "https://app.powerbi.com/view?r=eyJrIjoiM2Y5NzVlZmYtYTkyNC00ZWJlLWI2M2YtZDA0MTcxMmQ3YWM1IiwidCI6IjQxZDdjZDQ4LWQ2MzQtNDIyZi1hNmNjLWVlNTUxNDFhOTJkNSJ9"
