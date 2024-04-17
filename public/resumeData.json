@@ -157,9 +157,8 @@
             }
         ]
     },
-    
-         "portfolio": {
-        "projects": [
+    "portfolio": {
+    "projects": [
             {
                 "title": "AgroWallet Dashboard",
                 "category": "Visualization of AgroMall Farmer's Information such as age,farm size, agents, loans taken by farmers, amount disbursed and total amount repaid.",
