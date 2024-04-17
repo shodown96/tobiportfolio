@@ -35,8 +35,8 @@ class Portfolio extends Component {
         });
 
         return (
-          <div key={category}>
-            <h1>{category}</h1>
+          <div key={category} className="category-section">
+            <h1 className="category-title">{category}</h1>
             <div id={`portfolio-wrapper-${category}`} className="bgrid-thirds s-bgrid-halves cf">
               {categoryProjects}
             </div>
