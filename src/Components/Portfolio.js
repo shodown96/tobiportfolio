@@ -18,7 +18,7 @@ class Portfolio extends Component {
         <section id="portfolio">
           <div className="row">
             <div className="twelve columns collapsed">
-              <h1>Hey!! Why Not Check Out Some of My Works.</h1>
+              <h1>Hey! Why Not Check Out Some of My Works.</h1>
               <div id="portfolio-wrapper" className="bgrid-thirds s-bgrid-halves cf">
                 <div className="portfolio-category">
                   <h2>PowerBI</h2>
