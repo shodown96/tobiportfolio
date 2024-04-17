@@ -155,13 +155,13 @@
         "projects": [
             {
                 "title": "AgroWallet Dashboard",
-                "category": "PowerBI",
+                "category": "Visualization of AgroMall Farmer's Information such as age,farm size, agents, loans taken by farmers, amount disbursed and total amount repaid.",
                 "image": "agrowallet.png",
                 "url": "https://app.powerbi.com/view?r=eyJrIjoiOTQ2ZTQ4NjYtZTQ4ZC00NzQ2LTkyOTMtZGVhYmM3NzcyMGRmIiwidCI6IjQxZDdjZDQ4LWQ2MzQtNDIyZi1hNmNjLWVlNTUxNDFhOTJkNSJ9"
             },
             {
                 "title": "Corona Dashboard",
-                "category": "SQL"
+                "category": "Visualization of Corona Virus Pandemic as at 26 July 2021, details like number of countries affected, confirmed cases and deaths.",
                 "image": "corona.png",
                 "url": "https://app.powerbi.com/view?r=eyJrIjoiM2Y5NzVlZmYtYTkyNC00ZWJlLWI2M2YtZDA0MTcxMmQ3YWM1IiwidCI6IjQxZDdjZDQ4LWQ2MzQtNDIyZi1hNmNjLWVlNTUxNDFhOTJkNSJ9"
             },
