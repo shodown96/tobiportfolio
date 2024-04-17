@@ -187,7 +187,7 @@
                 "description": "Analyzing and visualizing the olympics dataset gotten from Quantum Analytics to derive insights, identify patterns and trends in data using PowerBI, Excel and SQL",
                 "image": "olympics analysis-.png",
                 "url": "https://app.powerbi.com/view?r=eyJrIjoiM2M5MzEzM2YtZjIzZi00NTJmLTlkYTMtNWUyNDc1MzkzYjk3IiwidCI6IjQxZDdjZDQ4LWQ2MzQtNDIyZi1hNmNjLWVlNTUxNDFhOTJkNSJ9"
-            }
+            },
             {
                 "title": "Library Management System",
                 "category": "SQL",
