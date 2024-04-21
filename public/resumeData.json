@@ -155,35 +155,35 @@
         "projects": [
             {
                 "title": "AgroWallet Dashboard",
-                
+                "category": "PowerBI",
                 "description": "Visualization of AgroMall Farmer's Information such as age,farm size, agents, loans taken by farmers, amount disbursed and total amount repaid.",
                 "image": "agrowallet.png",
                 "url": "https://app.powerbi.com/view?r=eyJrIjoiOTQ2ZTQ4NjYtZTQ4ZC00NzQ2LTkyOTMtZGVhYmM3NzcyMGRmIiwidCI6IjQxZDdjZDQ4LWQ2MzQtNDIyZi1hNmNjLWVlNTUxNDFhOTJkNSJ9"
             },
             {
                 "title": "Corona Dashboard",
-                
+                "category": "PowerBI",
                 "description": "Visualization of Corona Virus Pandemic as at 26 July 2021, details like number of countries affected, confirmed cases and deaths.",
                 "image": "corona.png",
                 "url": "https://app.powerbi.com/view?r=eyJrIjoiM2Y5NzVlZmYtYTkyNC00ZWJlLWI2M2YtZDA0MTcxMmQ3YWM1IiwidCI6IjQxZDdjZDQ4LWQ2MzQtNDIyZi1hNmNjLWVlNTUxNDFhOTJkNSJ9"
             },
             {
                 "title": "M & E Dashboard",
-                
+                "category": "PowerBI",
                 "description": "Visualizing the monitoring and evaluation dataset of AgroMall, details like Pending Visits, Number of States visited e.t.c",
                 "image": "m & e.png",
                 "url": "https://app.powerbi.com/view?r=eyJrIjoiOGYwZDU0MzYtNGYwOC00YTEzLTk1MjMtNDY3MmMwMGRjZGZlIiwidCI6IjQxZDdjZDQ4LWQ2MzQtNDIyZi1hNmNjLWVlNTUxNDFhOTJkNSJ9"
             },
             {
                 "title": "Logistics Dashboard",
-                
+                "category": "PowerBI",
                 "description": "Analyzing and visualizing the logistics transport data of AgroMall, details like different truck vendors, products available for movement and status of truck vendor.",
                 "image": "logistics.png",
                 "url": "https://app.powerbi.com/view?r=eyJrIjoiNTM3NjI5NzgtYTQyZS00YTk3LTg1MzEtYzQyODgyYTRlM2Q5IiwidCI6IjQxZDdjZDQ4LWQ2MzQtNDIyZi1hNmNjLWVlNTUxNDFhOTJkNSJ9"
             },
             {
                 "title": "Olympics Dashboard",
-              
+                "category": "PowerBI",
                 "description": "Analyzing and visualizing the olympics dataset gotten from Quantum Analytics to derive insights, identify patterns and trends in data using PowerBI, Excel and SQL",
                 "image": "olympics analysis-.png",
                 "url": "https://app.powerbi.com/view?r=eyJrIjoiM2M5MzEzM2YtZjIzZi00NTJmLTlkYTMtNWUyNDc1MzkzYjk3IiwidCI6IjQxZDdjZDQ4LWQ2MzQtNDIyZi1hNmNjLWVlNTUxNDFhOTJkNSJ9"
