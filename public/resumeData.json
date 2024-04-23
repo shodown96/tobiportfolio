@@ -187,6 +187,34 @@
                 "description": "Analyzing and visualizing the olympics dataset gotten from Quantum Analytics to derive insights, identify patterns and trends in data using PowerBI, Excel and SQL",
                 "image": "olympics analysis-.png",
                 "url": "https://app.powerbi.com/view?r=eyJrIjoiM2M5MzEzM2YtZjIzZi00NTJmLTlkYTMtNWUyNDc1MzkzYjk3IiwidCI6IjQxZDdjZDQ4LWQ2MzQtNDIyZi1hNmNjLWVlNTUxNDFhOTJkNSJ9"
+            },
+            {
+                "title": "Library Management System",
+                "category": "SQL",
+                "description": "For this project, I’ll be analyzing data from a Library Management System (LMS) database. The LMS database consists of several tables representing different aspects of library operations, including books, borrowers, branches, and book loans.",
+                "image": "library.png",
+                "url": "https://app.powerbi.com/view?r=eyJrIjoiM2M5MzEzM2YtZjIzZi00NTJmLTlkYTMtNWUyNDc1MzkzYjk3IiwidCI6IjQxZDdjZDQ4LWQ2MzQtNDIyZi1hNmNjLWVlNTUxNDFhOTJkNSJ9"
+            },
+            {
+                "title": "Ontario Community Project",
+                "category": "SQL",
+                "description": "This project focuses on analyzing infrastructure projects in Ontario, Canada, using data from the Welcome Ontario dataset. The dataset contains valuable information about key infrastructure projects across various communities in Ontario, including project details, budgets, statuses, and completion dates. The objective of this project is to extract insights from the data to inform decision-making and project management within government infrastructure and community development initiatives.",
+                "image": "ont_communities.jpg",
+                "url": "https://github.com/tobiolad/ont-communities"
+            },
+            {
+                "title": "Tire Price Analysis",
+                "category": "Python",
+                "description": "Our dataset comprises 4350 samples detailing various attributes of automotive tires, from brand and model to pricing and customer ratings. We chose this dataset to explore the dynamics of tire pricing and customer preferences within the automotive industry. Our decision stems from the critical role tires play in vehicle performance and safety, making understanding market trends essential for manufacturers and suppliers. With a focus on data-driven decision-making, our project aims to provide actionable insights to optimize procurement processes and enhance product quality.",
+                "image": "tire_price.jpg",
+                "url": "https://github.com/tobiolad/tire-price-analysis"
+            },
+            {
+                "title": "Real-Time Seismic Event Monitoring Solution",
+                "category": "ArcGIS",
+                "description": "In a recent project focused on the oil and gas sector, I had to go on an exciting journey into the world of geospatial analysis using ArcGIS, a tool I had never used before. Despite hearing a lot about geography and GIS, I had never had the opportunity to explore its capabilities firsthand. The aim of this project, aptly named “SEISMO WATCH,” was to develop a real-time seismic event monitoring solution using live data from the US Geological Survey (USGS).",
+                "image": "seismic.png",
+                "url": "https://medium.com/@Tobioladimeji_/exploring-geospatial-analysis-building-a-real-time-seismic-event-monitoring-solution-a0c197a52c61"
             }
         ]
     },
