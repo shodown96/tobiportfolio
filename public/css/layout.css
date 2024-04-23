@@ -524,13 +524,14 @@ ul#nav li.current a {
 }
 
 
-/* #portfolio-wrapper {
+#portfolio-wrapper {
    display: flex;
    flex-wrap: wrap;
-} */
+   justify-content: center;
+}
 
 /* Portfolio Content */
-/* #portfolio-wrapper .columns { margin-bottom: 36px; } */
+#portfolio-wrapper .columns { margin-bottom: 36px; }
 .portfolio-category div {
     display: flex;
     flex-wrap: wrap;
