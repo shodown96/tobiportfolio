@@ -1210,3 +1210,9 @@ footer .social-links li:first-child {
    opacity: 0;
    width: 90%;
 } */
+
+
+.custom-row{
+    margin: 0 auto;
+    max-width: 800px;
+}

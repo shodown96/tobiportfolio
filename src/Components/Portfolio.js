@@ -16,7 +16,7 @@ const ProjectItem = ({ project }) => (
   <div className="columns portfolio-item">
     <div className="item-wrap">
       <a target="_blank" rel="noopener noreferrer" href={project.url} title={project.title}>
-        <img alt={project.title} src={project.image} style={{ width: 460, height: 250, objectFit: 'cover', overflow: 'hidden' }} />
+        <img alt={project.title} src={project.image} style={{ width: 480, height: 250, objectFit: 'cover', overflow: 'hidden' }} />
         <div className="overlay">
           <div className="portfolio-item-meta">
             <h5>{project.title}</h5>
@@ -47,7 +47,7 @@ const Portfolio = ({ data }) => {
 
   return (
     <section id="portfolio">
-      <div className="row">
+      <div style={{ maxWidth: 1000, margin: '0 auto' }}>
         <div className="twelve columns collapsed">
           {/* <h1></h1> */}
           <div id="portfolio-wrapper">
@@ -60,7 +60,7 @@ const Portfolio = ({ data }) => {
                     <div style={{
                       display: 'flex',
                       flexWrap: 'wrap',
-                      gap: 30,
+                      gap: 40,
                       margin: "0px auto",
                       justifyContent: 'space-between',
                       // alignItems: 'center',
