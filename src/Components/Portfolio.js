@@ -13,7 +13,7 @@ function makeDistinct(array) {
 
 
 const ProjectItem = ({ project }) => (
-  <div className="columns portfolio-item" style={{ maxWidth: "500px" }}>
+  <div className="columns portfolio-item" style={{ maxWidth: "450px" }}>
     <div className="item-wrap">
       <a target="_blank" rel="noopener noreferrer" href={project.url} title={project.title}>
         <img alt={project.title} src={project.image} />
