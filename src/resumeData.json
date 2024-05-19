@@ -216,6 +216,13 @@
                 "url": "https://github.com/tobiolad/tire-price-analysis"
             },
             {
+                "title": "Dividend Policy Predictor",
+                "category": "Python",
+                "description": "The goal of this project is to build and optimize a machine learning model that would predict if a particular company would cut its dividend shares at a particular time. All companies within S&P500 index.",
+                "image": "indian.jpg",
+                "url": "https://github.com/PeiqiAlan/Dividend-Policy-Forecast"
+            },
+            {
                 "title": "Real-Time Seismic Event Monitoring Solution",
                 "category": "ArcGIS",
                 "description": "In a recent project focused on the oil and gas sector, I had to go on an exciting journey into the world of geospatial analysis using ArcGIS, a tool I had never used before. Despite hearing a lot about geography and GIS, I had never had the opportunity to explore its capabilities firsthand. The aim of this project, aptly named “SEISMO WATCH,” was to develop a real-time seismic event monitoring solution using live data from the US Geological Survey (USGS).",
