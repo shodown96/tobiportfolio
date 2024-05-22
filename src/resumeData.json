@@ -223,6 +223,13 @@
                 "url": "https://github.com/PeiqiAlan/Dividend-Policy-Forecast"
             },
             {
+                "title": "Canada Economic Freedom",
+                "category": "Python",
+                "description": "In a discussion, we debated whether Canada is an opportunity, threat, or unknown. My position was that Canada is an opportunity due to its economic importance, political stability, high quality of life, and multicultural society. These factors make Canada attractive for immigrants and businesses, fostering innovation and providing a solid foundation for long-term growth.",
+                "image": "canada_economic.jpeg",
+                "url": "https://github.com/tobiolad/Economic-Freedom"
+            },
+            {
                 "title": "Real-Time Seismic Event Monitoring Solution",
                 "category": "ArcGIS",
                 "description": "In a recent project focused on the oil and gas sector, I had to go on an exciting journey into the world of geospatial analysis using ArcGIS, a tool I had never used before. Despite hearing a lot about geography and GIS, I had never had the opportunity to explore its capabilities firsthand. The aim of this project, aptly named “SEISMO WATCH,” was to develop a real-time seismic event monitoring solution using live data from the US Geological Survey (USGS).",
