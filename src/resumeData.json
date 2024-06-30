@@ -4,7 +4,7 @@
         "occupation": "Data Analyst",
         "description": "On a mission to make data-driven decision-making accessible to small businesses. Let's connect and explore how we can leverage my expertise to drive growth and success for your business.",
         "image": "headshot.jpg",
-        "bio": "Hello, I'm Tobi Oladimeji, a seasoned data analyst with a diverse background in data migration, geospatial analysis, and business intelligence. My experience spans multiple industries, including finance, oil production, and digital marketing. I specialize in leveraging tools like SQL, Excel, Power BI, Python, and various other technologies to drive data-driven decision-making and enhance operational efficiency. As a community leader, I also founded Data Fellows, a thriving data community with over 300 active members. I'm passionate about sharing knowledge and fostering collaboration. I believe in the power of effective communication, adaptability, and teamwork, among other qualities, to drive success in any project or organization.",
+        "bio": "Hello, I'm Tobi Oladimeji, a seasoned data professional with a diverse background in data migration, geospatial analysis, business intelligence, and advanced machine learning, specifically Large Language Models (LLM). My experience spans multiple industries, including finance, oil production, and digital marketing. I specialize in leveraging tools like SQL, Excel, Power BI, Python, and various other technologies to drive data-driven decision-making and enhance operational efficiency. As a community leader, I founded Data Fellows, a thriving data community with over 500 active members, where I share knowledge and foster collaboration. I'm passionate about the transformative power of data and the role it plays in making informed decisions. I believe in the power of effective communication, adaptability, and teamwork to drive success in any project or organization. My commitment to excellence and continuous learning has enabled me to deliver impactful data solutions and lead innovative projects.",
         "contactmessage": "Let's connect and explore how I can contribute to your team's goals.",
         "email": "oluwatobilobadimeji@gmail.com",
         "phone": "+234 807 997 6826",
@@ -55,16 +55,16 @@
         ],
         "work": [
             {
-                "company": "Conestoga College",
-                "title": "OER Assistant",
-                "years": "May 2024 - Present",
-                "description": "As an OER Assistant, I leverage my technical expertise to optimize open learning practices and streamline processes. Collaborating closely with Open Learning staff, I contribute to the creation, review, and refinement of digital text materials using a diverse array of technologies such as Word, PDF, Pressbooks, and H5P, prioritizing accessibility and effectiveness in content delivery. Additionally, I apply my proficiency in Large Language Models (LLM) and machine learning to assist in the detection and mitigation of plagiarism, further enhancing the integrity of educational resources."
-            },
-            {
                 "company": "ESGTree",
                 "title": "Data Analyst & ML Engineer",
                 "years": "February 2024 - Present",
                 "description": "In my role as a Data Analyst & ML Engineer at ESGTree. I provide expert support for client requests, utilizing my proficiency in PowerBI and fostering collaboration with data engineers to ensure efficient and effective solutions. Additionally, I contribute valuable insights to architecture modernization and refactoring efforts, aiming to enhance system efficiency and scalability. Moreover, I actively participate in Machine Learning projects focused on document processing, leveraging Large Language Models (LLM) to drive innovation and achieve project objectives."
+            },
+            {
+                "company": "Conestoga College",
+                "title": "OER Assistant",
+                "years": "May 2024 - Aug 2024",
+                "description": "As an OER Assistant, I leverage my technical expertise to optimize open learning practices and streamline processes. Collaborating closely with Open Learning staff, I contribute to the creation, review, and refinement of digital text materials using a diverse array of technologies such as Word, PDF, Pressbooks, and H5P, prioritizing accessibility and effectiveness in content delivery. Additionally, I apply my proficiency in Large Language Models (LLM) and machine learning to assist in the detection and mitigation of plagiarism, further enhancing the integrity of educational resources."
             },
             {
                 "company": "PwC",
