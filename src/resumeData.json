@@ -122,7 +122,31 @@
                 "level": "70%"
             },
             {
-                "name": "SQL",
+                "name": "MySQL",
+                "level": "85%"
+            },
+            {
+                "name": "Matplotlib",
+                "level": "85%"
+            },
+            {
+                "name": "Git",
+                "level": "85%"
+            },
+            {
+                "name": "SSIS",
+                "level": "85%"
+            },
+            {
+                "name": "ETL",
+                "level": "85%"
+            },
+            {
+                "name": "R",
+                "level": "85%"
+            },
+            {
+                "name": "Large Language Models(LLMs)",
                 "level": "85%"
             },
             {
@@ -136,6 +160,18 @@
             {
                 "name": "Market Research",
                 "level": "70%"
+            },
+            {
+                "name": "Retrieval Augmented Generation(RAG)",
+                "level": "85%"
+            },
+            {
+                "name": "Scikit-learn",
+                "level": "85%"
+            },
+            {
+                "name": "AWS",
+                "level": "85%"
             },
             {
                 "name": "Microsoft Excel",
