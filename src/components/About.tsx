@@ -6,8 +6,7 @@ const About = ({ data }: any) => {
       <section id="about">
          <div className="row">
             <div className="three columns">
-              <img src="images/headshot.jpg" alt="Tobi Oladimeji Profile Picture"
-     style="width:220px;height:220px;object-fit:cover;border-radius:50%;border:4px solid white;box-shadow:0 6px 15px rgba(0,0,0,0.2);display:block;margin:auto;">
+              <img src="images/headshot.jpg" alt="Tobi Oladimeji Profile Picture" width="140" height="140">
             </div>
             <div className="nine columns main-col">
                <h2>About Me</h2>
