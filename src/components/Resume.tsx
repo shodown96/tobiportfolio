@@ -1,6 +1,6 @@
 
 const Resume = ({ data }: any) => {
-  const { skillmessage, education, work, skills } = data || {};
+  const { skillmessage, education, work, skillGroups } = data || {};
 
   const educationItems = education ? education.map((edu: any) => (
     <div key={edu.school}>
@@ -18,13 +18,18 @@ const Resume = ({ data }: any) => {
       <p className="info">
         {job.title} <span>&bull;</span> <em className="date">{job.years}</em>
       </p>
-      <p>{job.description}</p>
+      <ul className="work-highlights">
+        {job.highlights.map((highlight: string) => <li key={highlight}>{highlight}</li>)}
+      </ul>
     </div>
   )) : null;
 
-  const skillItems = skills ? skills.map((skill: any) => (
-    <div className="badge" key={skill.name}>
-      <strong>{skill.name}</strong>
+  const skillItems = skillGroups ? skillGroups.map((group: any) => (
+    <div className="skill-group" key={group.name}>
+      <h3>{group.name}</h3>
+      <div className="skill-badges">
+        {group.skills.map((skill: string) => <span className="badge" key={skill}>{skill}</span>)}
+      </div>
     </div>
   )) : null;
 
@@ -44,7 +49,7 @@ const Resume = ({ data }: any) => {
       </div>
       <div className="row work">
         <div className="three columns header-col">
-          <h1><span>Work</span></h1>
+          <h1><span>Experience</span></h1>
         </div>
         <div className="nine columns main-col">
           {workItems}
@@ -56,11 +61,7 @@ const Resume = ({ data }: any) => {
         </div>
         <div className="nine columns main-col">
           <p>{skillmessage}</p>
-          <div className="bars">
-            <ul className="skills">
-              {skillItems}
-            </ul>
-          </div>
+          <div className="skill-groups">{skillItems}</div>
         </div>
       </div>
     </section>

@@ -10,6 +10,7 @@ const ProjectItem = ({ project }: any) => (
         <div className="portfolio-item-meta">
           <h5>{project.title}</h5>
           <p>{project.description}</p>
+          <span className="project-cta">{project.cta} <i className="fa fa-external-link"></i></span>
         </div>
       </a>
     </div>
@@ -41,7 +42,7 @@ const Portfolio = ({ data }: any) => {
             <div className='portfolio-category' key={j}>
               <h2>{category}</h2>
               <div className="portfolio-grid">
-                {projects.filter((proj: any) => proj.category === category).map((project, i) => <ProjectItem key={i} project={project} />)}
+                {projects.filter((proj: any) => proj.category === category).map((project: any) => <ProjectItem key={project.title} project={project} />)}
               </div>
             </div>
           ))}

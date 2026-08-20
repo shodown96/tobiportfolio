@@ -2,14 +2,12 @@
   "main": {
     "name": "Tobi Oladimeji",
     "occupation": "Data & Analytics Professional",
-    "description": "I build reporting, data quality, automation, and decision-support systems using Power BI, SQL, Python, and applied AI. My experience spans consulting, technology, sustainability, grant intelligence, and mission-driven organizations.",
+    "description": "I build reliable reporting, data quality, automation, and decision-support systems using Power BI, SQL, Python, and applied AI.",
     "image": "headshot.jpg",
     "bio": [
       "I am a data and analytics professional with 5+ years of experience across business intelligence, reporting, data operations, automation, and applied analytics.",
-      "My work has included enterprise data migration and reporting at PwC, analytics and machine-learning workflows at ESGTree in Waterloo, and data quality, KPI, and automation systems for a grant-intelligence platform at Granted Technologies.",
-      "I work primarily with Power BI, SQL, Python, Excel, data quality frameworks, reporting workflows, and AI-enabled automation. I am particularly interested in turning complex operational data into clear information that helps teams make better decisions.",
-      "Outside of my professional analytics work, I founded Data Fellows, a global data and technology ecosystem with 1,500+ members across 15+ countries, and I am building Inscend, a decision-intelligence product focused on helping businesses make better decisions from their data.",
-      "I am based in Waterloo Region, Ontario."
+      "My experience includes enterprise data migration and reporting at PwC, analytics and machine-learning workflows at ESGTree, and data quality, KPI, and automation systems for Granted Technologies. I work primarily with Power BI, SQL, Python, Excel, data quality frameworks, and AI-enabled automation.",
+      "I also founded Data Fellows, a global data and technology ecosystem with 1,500+ members across 15+ countries, and I am building Inscend, a decision-intelligence product. I am based in Waterloo Region, Ontario."
     ],
     "contactmessage": "Let's connect and discuss how I can contribute to your team's analytics, reporting, and decision-support work.",
     "email": "oluwatobilobadimeji@gmail.com",
@@ -32,53 +30,69 @@
         "company": "Granted Technologies Inc.",
         "title": "Strategic Advisor, Data & Operations",
         "years": "October 2025 – Present",
-        "description": "Advise on data architecture, quality controls, workflows, and automation for a grant-intelligence platform. Develop QA frameworks supporting 1,500+ grant records and end-to-end grant discovery, validation, and structured extraction workflows. Define KPIs for data quality, throughput, and team performance; apply AI-assisted data cleaning and operational automation; and translate data quality and operational findings into leadership reporting."
+        "highlights": [
+          "Advise on data architecture, quality controls, workflows, and automation for a grant-intelligence platform.",
+          "Develop QA frameworks supporting 1,500+ grant records and end-to-end discovery, validation, and structured extraction workflows.",
+          "Define operational KPIs, apply AI-assisted data cleaning, and translate findings into leadership reporting."
+        ]
       },
       {
         "company": "ESGTree",
         "title": "Data Analyst & Machine Learning Engineer",
         "years": "February 2024 – September 2024",
-        "description": "Built Power BI dashboards and reporting solutions, supported SQL and Python data pipelines, and collaborated with data engineers on scalable analytics workflows. Developed LLM-based document extraction that reduced manual data input by approximately 30%, working cross-functionally across engineering, operations, and analytics."
+        "highlights": [
+          "Built Power BI dashboards and reporting solutions to support environmental data insights and operational tracking.",
+          "Supported SQL and Python pipelines while collaborating with data engineers on scalable analytics workflows.",
+          "Developed LLM-based document extraction that reduced manual data input by approximately 30% across cross-functional workflows."
+        ]
       },
       {
         "company": "PwC",
         "title": "Data Analytics Team Lead",
         "years": "September 2022 – November 2023",
-        "description": "Supported an enterprise transition from Microsoft Dynamics AX to Dynamics 365 Finance & Operations, achieving approximately 98% data accuracy through SQL, Excel, Power BI, data validation, reporting, and transformation. Led 20 stakeholder mapping and requirements sessions, developed 30+ Python scripts, collaborated with 15 stakeholders, and delivered reporting to senior management."
+        "highlights": [
+          "Supported an enterprise transition from Microsoft Dynamics AX to Dynamics 365 Finance & Operations, achieving approximately 98% data accuracy.",
+          "Led 20 mapping and requirements sessions and collaborated with 15 stakeholders across the transformation.",
+          "Developed 30+ Python scripts and delivered SQL, Excel, Power BI, validation, transformation, and senior-management reporting."
+        ]
       },
       {
         "company": "Data Fellows",
         "title": "Founder & Strategy Lead",
         "years": "August 2022 – Present",
-        "description": "Founded and grew a 1,500+ member data and technology ecosystem across 15+ countries. Lead partnerships, learning programs, applied analytics initiatives, and cross-functional teams delivering practical data and AI projects. Incubated Inscend, a decision-intelligence product, through product discovery, data strategy, and applied automation."
+        "highlights": [
+          "Founded and grew a 1,500+ member data and technology ecosystem across 15+ countries.",
+          "Lead partnerships, learning programs, applied analytics initiatives, and cross-functional delivery of practical data and AI projects.",
+          "Incubated Inscend through product discovery, data strategy, and applied automation."
+        ]
       },
       {
         "company": "AgroMall",
         "title": "Data Analyst",
         "years": "March 2021 – August 2022",
-        "description": "Developed 10+ Power BI dashboards and recurring operational reports using SQL and Excel. Delivered Python analytics projects with pandas, NumPy, and Matplotlib, and improved database validation and automation processes, contributing to an approximately 25% improvement in data accuracy."
+        "highlights": [
+          "Developed 10+ Power BI dashboards and recurring operational reports using SQL and Excel.",
+          "Delivered Python analytics projects with pandas, NumPy, and Matplotlib.",
+          "Improved database validation and automation processes, contributing to an approximately 25% improvement in data accuracy."
+        ]
       }
     ],
-    "skills": [
-      { "name": "Power BI" }, { "name": "SQL" }, { "name": "Python" }, { "name": "Advanced Excel" },
-      { "name": "Tableau" }, { "name": "Data Visualization" }, { "name": "KPI & Performance Reporting" },
-      { "name": "Dashboard Development" }, { "name": "Data Quality & Validation" }, { "name": "Data Governance" },
-      { "name": "ETL & Data Integration" }, { "name": "Statistical Analysis" }, { "name": "Requirements Gathering" },
-      { "name": "Stakeholder Engagement" }, { "name": "Process Automation" }, { "name": "PostgreSQL" },
-      { "name": "MySQL" }, { "name": "Microsoft SQL Server" }, { "name": "Azure" }, { "name": "AWS" },
-      { "name": "Google Cloud Platform" }, { "name": "Large Language Models" }, { "name": "AI Workflow Automation" },
-      { "name": "Git" }
+    "skillGroups": [
+      { "name": "Business Intelligence & Reporting", "skills": ["Power BI", "Tableau", "Advanced Excel", "Data Visualization", "Dashboard Development", "KPI & Performance Reporting"] },
+      { "name": "Data & Analytics", "skills": ["SQL", "Python", "Statistical Analysis", "Data Quality & Validation", "Data Governance", "ETL & Data Integration"] },
+      { "name": "Platforms & Automation", "skills": ["PostgreSQL", "MySQL", "Microsoft SQL Server", "Azure", "AWS", "Google Cloud Platform", "Git", "Process Automation", "Large Language Models", "AI Workflow Automation"] },
+      { "name": "Business & Delivery", "skills": ["Requirements Gathering", "Stakeholder Engagement"] }
     ]
   },
   "portfolio": {
     "projects": [
-      { "title": "M & E Dashboard", "category": "Power BI", "description": "Monitoring and evaluation dashboard providing visibility into visit status, geographic activity, pending fieldwork, and operational performance.", "image": "m & e.png", "url": "https://app.powerbi.com/view?r=eyJrIjoiOGYwZDU0MzYtNGYwOC00YTEzLTk1MjMtNDY3MmMwMGRjZGZlIiwidCI6IjQxZDdjZDQ4LWQ2MzQtNDIyZi1hNmNjLWVlNTUxNDFhOTJkNSJ9" },
-      { "title": "AgroWallet Dashboard", "category": "Power BI", "description": "Operational reporting on farmer profiles, financial activity, loans, disbursements, repayments, agents, and farm characteristics.", "image": "agrowallet.png", "url": "https://app.powerbi.com/view?r=eyJrIjoiOTQ2ZTQ4NjYtZTQ4ZC00NzQ2LTkyOTMtZGVhYmM3NzcyMGRmIiwidCI6IjQxZDdjZDQ4LWQ2MzQtNDIyZi1hNmNjLWVlNTUxNDFhOTJkNSJ9" },
-      { "title": "Logistics Dashboard", "category": "Power BI", "description": "Operational dashboard tracking vendors, product movement, transport availability, and logistics status to support day-to-day reporting.", "image": "logistics.png", "url": "https://app.powerbi.com/view?r=eyJrIjoiNTM3NjI5NzgtYTQyZS00YTk3LTg1MzEtYzQyODgyYTRlM2Q5IiwidCI6IjQxZDdjZDQ4LWQ2MzQtNDIyZi1hNmNjLWVlNTUxNDFhOTJkNSJ9" },
-      { "title": "Ontario Community Project", "category": "SQL", "description": "SQL analysis of Ontario infrastructure data covering project budgets, statuses, completion timelines, and community-level decision support.", "image": "ont_communities.jpg", "url": "https://github.com/tobiolad/ont-communities" },
-      { "title": "Library Management System", "category": "SQL", "description": "Relational database analysis of books, borrowers, branches, and loan activity to answer practical library operations questions.", "image": "library.png", "url": "https://medium.com/@Tobioladimeji_/testing-sql-skills-a-deep-dive-into-lms-databases-98d7dd808604" },
-      { "title": "Tire Price Analysis", "category": "Python", "description": "Python analysis of 4,350 tire records to identify pricing patterns, customer preferences, and actionable business insights for procurement and product decisions.", "image": "tire_price.jpg", "url": "https://github.com/tobiolad/tire-price-analysis" },
-      { "title": "Real-Time Seismic Event Monitoring Solution", "category": "ArcGIS / Data", "description": "Real-time public-data ingestion and geospatial analysis solution using USGS data, with automated seismic monitoring and operational reporting.", "image": "seismic.png", "url": "https://medium.com/@Tobioladimeji_/exploring-geospatial-analysis-building-a-real-time-seismic-event-monitoring-solution-a0c197a52c61" }
+      { "title": "M & E Dashboard", "category": "Power BI", "description": "Monitoring and evaluation dashboard providing visibility into visit status, geographic activity, pending fieldwork, and operational performance.", "image": "m & e.png", "url": "https://app.powerbi.com/view?r=eyJrIjoiOGYwZDU0MzYtNGYwOC00YTEzLTk1MjMtNDY3MmMwMGRjZGZlIiwidCI6IjQxZDdjZDQ4LWQ2MzQtNDIyZi1hNmNjLWVlNTUxNDFhOTJkNSJ9", "cta": "View Dashboard" },
+      { "title": "AgroWallet Dashboard", "category": "Power BI", "description": "Operational reporting on farmer profiles, financial activity, loans, disbursements, repayments, agents, and farm characteristics.", "image": "agrowallet.png", "url": "https://app.powerbi.com/view?r=eyJrIjoiOTQ2ZTQ4NjYtZTQ4ZC00NzQ2LTkyOTMtZGVhYmM3NzcyMGRmIiwidCI6IjQxZDdjZDQ4LWQ2MzQtNDIyZi1hNmNjLWVlNTUxNDFhOTJkNSJ9", "cta": "View Dashboard" },
+      { "title": "Logistics Dashboard", "category": "Power BI", "description": "Operational dashboard tracking vendors, product movement, transport availability, and logistics status to support day-to-day reporting.", "image": "logistics.png", "url": "https://app.powerbi.com/view?r=eyJrIjoiNTM3NjI5NzgtYTQyZS00YTk3LTg1MzEtYzQyODgyYTRlM2Q5IiwidCI6IjQxZDdjZDQ4LWQ2MzQtNDIyZi1hNmNjLWVlNTUxNDFhOTJkNSJ9", "cta": "View Dashboard" },
+      { "title": "Ontario Community Project", "category": "SQL", "description": "SQL analysis of Ontario infrastructure data covering project budgets, statuses, completion timelines, and community-level decision support.", "image": "ont_communities.jpg", "url": "https://github.com/tobiolad/ont-communities", "cta": "View Repository" },
+      { "title": "Library Management System", "category": "SQL", "description": "Relational database analysis of books, borrowers, branches, and loan activity to answer practical library operations questions.", "image": "library.png", "url": "https://medium.com/@Tobioladimeji_/testing-sql-skills-a-deep-dive-into-lms-databases-98d7dd808604", "cta": "View Analysis" },
+      { "title": "Tire Price Analysis", "category": "Python", "description": "Python analysis of 4,350 tire records to identify pricing patterns, customer preferences, and actionable business insights for procurement and product decisions.", "image": "tire_price.jpg", "url": "https://github.com/tobiolad/tire-price-analysis", "cta": "View Repository" },
+      { "title": "Real-Time Seismic Event Monitoring Solution", "category": "ArcGIS / Data", "description": "Real-time public-data ingestion and geospatial analysis solution using USGS data, with automated seismic monitoring and operational reporting.", "image": "seismic.png", "url": "https://medium.com/@Tobioladimeji_/exploring-geospatial-analysis-building-a-real-time-seismic-event-monitoring-solution-a0c197a52c61", "cta": "View Case Study" }
     ]
   },
   "testimonials": {
@@ -86,8 +100,6 @@
       { "text": "It was a great pleasure to have worked with Tobi. He is a very responsible, determined, and hard working profesional. Tobi really helped us in analyzing data and report generation for various clients,developing them in PowerBi and integrating databases. Constantly solved problems and proposed new ideas. Tobi was always a team player and was invested in making things work. Apart from being a great profesional he is a great person.", "user": "Edgardo Jaramillo" },
       { "text": "Tobi's excepcional patience, professionalism, and capability to understand and work with disorganized data sets have turned him into an asset for our team. I admire his capacity to create reports from scratch in Power BI and connect various platforms to turn simple datasets added to a Google Sheets into meaningful reports for making informed decisions. Of course, he is a great coworker, and I can wholeheartedly recommend Tobi without any doubt.", "user": "Daniela Titus" },
       { "text": "Tobi is an outstanding young professional with so much potential. During our time at PwC, I witnessed his dedication to mastering data analysis. Tobi's ability to tackle complex data challenges and his eagerness to learn set him apart. He's not just a team player but also brings a fresh perspective to every project. I highly recommend Tobi for his skills, passion, and the promise he holds in the field of data analytics", "user": "Andrew S Nevin" },
-      { "text": "Tobi was an exceptional student in my Business Intelligence Tools course. He demonstrated a strong understanding of analytical methods and models, excelled in data visualization techniques, and showcased a keen grasp of probability theory. Tobi's dedication, proactive approach to learning, and collaborative spirit made him a standout in the class. I highly recommend him for any opportunities where his analytical skills and expertise in business intelligence and statistics are needed.", "user": "Dr. Ganesh Subramanian, PhD" },
-      { "text": "I had the pleasure of teaching Tobi SQL, and I wholeheartedly recommend him. Tobi consistently demonstrated a strong grasp of complex concepts, coupled with a dedicated work ethic and a collaborative spirit. His passion for SQL and his ability to apply it to real-world scenarios make him an asset to any team. I have no doubt that Tobi will continue to excel in his career and make significant contributions wherever he goes.", "user": "Timothy Laleye" },
       { "text": "I wholeheartedly recommend Tobi for his exceptional contributions at Rollbackally. From the moment he joined our team, it was clear that he possessed a remarkable ability to adapt, coupled with a strong work ethic that consistently translated into outstanding results. Tobi’s dedication to his work is truly commendable, and his talent shines through in all that he undertakes. He is not only a skilled professional but also a natural leader who knows how to guide the team effectively toward achieving our goals. I am confident that Tobi will continue to excel in any role he takes on in the future.", "user": "Santiago Guevara León" }
     ]
   }

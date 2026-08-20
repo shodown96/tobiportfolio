@@ -24,24 +24,26 @@ interface Project {
     description: string;
     image: string;
     url: string;
+    cta: string;
 }
 
 interface Resume {
     skillmessage: string;
     education: Education[];
     work: Work[];
-    skills: Skill[];
+    skillGroups: SkillGroup[];
 }
 
-interface Skill {
+interface SkillGroup {
     name: string;
+    skills: string[];
 }
 
 interface Work {
     company: string;
     title: string;
     years: string;
-    description: string;
+    highlights: string[];
 }
 
 interface Education {
