@@ -10,10 +10,11 @@ const Testimonials = ({ data }: any) => {
    )) : null;
 
    return (
-      <section id="testimonials" style={{backgroundColor:'red'}}>
+      <section id="testimonials">
          <div className="text-container">
             <div className="row">
                <div className="ten columns flex-container">
+                  <h2>Professional Recommendations</h2>
                   <ul className="slides">
                      {testimonials}
                   </ul>

@@ -1286,3 +1286,94 @@ header .banner-text h2 {
    .portfolio-category .portfolio-grid { grid-template-columns: 1fr; }
    .portfolio-item .item-wrap img { height: auto; aspect-ratio: 12 / 7; }
 }
+
+/* Recruiter-focused UX and copy polish */
+#about p { color: #aab2b8; }
+#about .profile-pic {
+   width: 190px;
+   height: 190px;
+   object-fit: cover;
+   object-position: center 20%;
+   border-radius: 50%;
+   border: 3px solid rgba(255, 255, 255, .12);
+   box-shadow: 0 8px 24px rgba(0, 0, 0, .28);
+}
+.work-highlights {
+   margin: 0 0 30px 18px;
+   color: #838c95;
+}
+.work-highlights li {
+   margin-bottom: 9px;
+   padding-left: 5px;
+   line-height: 1.75;
+}
+.work-highlights li::marker { color: #11abb0; }
+.skill-groups {
+   display: grid;
+   grid-template-columns: repeat(2, minmax(0, 1fr));
+   gap: 24px 32px;
+   margin-top: 26px;
+}
+.skill-group h3 {
+   font-size: 16px !important;
+   line-height: 22px !important;
+   margin-bottom: 10px;
+}
+.skill-badges { display: flex; flex-wrap: wrap; gap: 7px; }
+.skill-badges .badge { margin: 0; font-weight: 600; }
+.project-cta {
+   display: inline-block;
+   margin-top: 16px;
+   color: #07888d;
+   font: 12px/18px "opensans-bold", sans-serif;
+   text-transform: uppercase;
+   letter-spacing: .7px;
+}
+.project-cta i { margin-left: 4px; }
+#testimonials h2 {
+   color: #fff;
+   font: 18px/24px "opensans-bold", sans-serif;
+   letter-spacing: 2px;
+   margin-bottom: 40px;
+   text-align: center;
+   text-transform: uppercase;
+   text-shadow: 0 1px 3px #000;
+}
+#contact .contact-panel { display: flex; align-items: flex-start; }
+#contact h1 span { display: inline; }
+#contact h1:before { display: none; }
+#contact .contact-content h2 {
+   color: #fff;
+   font: 28px/36px "opensans-bold", sans-serif;
+   margin-bottom: 12px;
+}
+#contact .contact-content p.lead {
+   color: #aab2b8;
+   max-width: 720px;
+   margin-bottom: 22px;
+}
+#contact .contact-location { color: #8b9798; line-height: 26px; }
+#contact .contact-actions {
+   display: flex;
+   flex-wrap: wrap;
+   gap: 12px;
+   margin: 28px 0 18px;
+}
+#contact .contact-actions .button {
+   margin: 0;
+   color: #fff;
+   background: #3d4952;
+}
+#contact .contact-actions .button.primary { background: #0d8f94; }
+#contact .contact-actions .button:hover { background: #fff; color: #222; }
+#contact .contact-actions i { margin-right: 10px; }
+#contact .contact-email { font-size: 15px; }
+
+@media only screen and (max-width: 767px) {
+   .skill-groups { grid-template-columns: 1fr; }
+   #contact .contact-panel { display: block; text-align: center; }
+   #contact .contact-content { padding: 0 24px; }
+   #contact .contact-actions { justify-content: center; }
+   #contact .contact-actions .button { width: 100%; text-align: center; }
+   #testimonials blockquote p { font-size: 18px; line-height: 34px; }
+}
