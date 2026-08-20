@@ -1,5 +1,5 @@
 const Header = ({ data }: any) => {
-   const { name, description, social } = data || {};
+   const { name, occupation, description, social } = data || {};
    const networks = social ? social.map((network: any) => (
       <li key={network.name}>
          <a target="_blank" rel="noopener noreferrer" href={network.url}>
@@ -25,6 +25,7 @@ const Header = ({ data }: any) => {
          <div className="row banner">
             <div className="banner-text">
                <h1 className="responsive-headline">I'm {name}</h1>
+               <h2>{occupation}</h2>
                <h3>{description}</h3>
                <hr />
                <ul className="social">

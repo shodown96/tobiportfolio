@@ -1,28 +1,31 @@
 
 const About = ({ data }: any) => {
-   let { name, image, bio, email, resumeDownload } = data;
+   const { name, image, bio, email, address, resumedownload } = data;
 
    return (
       <section id="about">
          <div className="row">
             <div className="three columns">
-              <img src="images/headshot.jpg" alt="Tobi Oladimeji Profile Picture" width="140" height="140">
+              <img className="profile-pic" src={`images/${image}`} alt="Tobi Oladimeji" width="140" height="140" />
             </div>
             <div className="nine columns main-col">
                <h2>About Me</h2>
-               <p>{bio}</p>
+               <div className="bio">
+                  {bio.map((paragraph: string) => <p key={paragraph}>{paragraph}</p>)}
+               </div>
                <div className="row">
                   <div className="columns contact-details">
                      <h2>Contact Details</h2>
                      <p className="address">
                         <span>{name}</span><br />
-                        <span>{email}</span>
+                        <span>{address.city}, {address.state}, {address.zip}</span><br />
+                        <a href={`mailto:${email}`}>{email}</a>
                      </p>
                   </div>
                   <div className="columns download">
                      <p>
-                        <a target="_blank" rel="noopener noreferrer" href={resumeDownload} className="button">
-                           <i className="fa fa-download"></i>Download Resume
+                        <a target="_blank" rel="noopener noreferrer" href={resumedownload} className="button">
+                           <i className="fa fa-linkedin"></i>View LinkedIn
                         </a>
                      </p>
                   </div>

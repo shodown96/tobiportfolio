@@ -35,7 +35,6 @@ interface Resume {
 
 interface Skill {
     name: string;
-    level: string;
 }
 
 interface Work {
@@ -57,7 +56,7 @@ interface Main {
     occupation: string;
     description: string;
     image: string;
-    bio: string;
+    bio: string[];
     contactmessage: string;
     email: string;
     phone: string;
